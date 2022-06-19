@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingBadhon45
-- 👀 I’m interested in ... ICT
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... Technology
+- 🌱 I’m currently learning ... Coding
 - 💞️ I’m looking to collaborate on ...
 
 <!---
